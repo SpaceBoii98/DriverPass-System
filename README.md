@@ -1,8 +1,6 @@
 # DriverPass-System
 An innovative platform for scheduling and managing driving lessons. Features user registration, lesson scheduling, payment processing, and DMV updates. Check our Wiki for setup instructions.
 
-DriverPass System Project
-
 Project Overview
 
 The DriverPass project was initiated for DriverPass, a client seeking to develop a system that aids students in scheduling and managing their driving lessons efficiently. The primary goal was to create an easy-to-navigate interface that would allow users to register, schedule, and cancel driving lessons, access learning materials, and receive updates on DMV policies.
